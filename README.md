@@ -1,4 +1,4 @@
-# kotobaRainbow
+# ことばレインボー　　　kotobaRainbow
 小学生向けに語彙力を伸ばすために役立つアプリを作ってみました。
 
 
