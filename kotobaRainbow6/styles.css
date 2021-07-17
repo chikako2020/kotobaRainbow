@@ -1,0 +1,41 @@
+body{
+    background: #ff71d3;
+}
+
+#btn{
+    width: 600px;
+    height: 300px;
+    background: #00d6ff;
+    border-radius: 50%;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 300px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    box-shadow: 0 20px 0 #0c4552;
+    user-select: none;
+}
+
+#btn:active {
+    box-shadow: 0 10px 0 #0c4552;
+    margin-top: 45px;
+}
+
+h1 {
+    position: relative;
+    padding: 0.2em 0.5em;
+    background: -webkit-linear-gradient(to right, #FFCE33,  #00d6ff);
+    background: linear-gradient(to right, #FFCE33, #00d6ff);
+    color: white;
+
+}
+
+.home-btn {
+    padding: 16px 48px;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ffecd2  0%,  #00d6ff 51%, #ffecd2  100%);
+    margin-left: 80%;
+}

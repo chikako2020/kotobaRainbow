@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+/* トップ画面のデザイン */
+.top-wrapper {
+  padding: 180px  0 100px 0;
+  background-image: url(img/top.png);
+  color: white;
+  background-size: cover;
+  text-align: center;
+}
+
+/* 文字を透過 */
+.top-wrapper h1{
+  opacity: 0.7;
+  font-size:45px;
+  letter-spacing: 5px;
+}
+
+
+.top-wrapper p{
+  opacity: 0.7;
+}
+
+/* ボタンのCSS */
+.btn {
+  padding: 16px 48px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.ninenn {
+  background-color: #DC2A5E;
+}
+
+.sannenn {
+  background-color: #ff8c00;
+}
+
+.yonenn {
+  background-color: #7cfc00;
+}
+
+.gonenn {
+  background-color: #0000cd;
+}
+
+.rokunenn {
+  background-color: #9146CA;;
+}
+
+
+
+.btn-wrapper {
+  margin: 20px;
+}
+
+/* ヘッダーにグラデーション */
+header {
+  height: 80px;
+  background: -webkit-linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+  background: linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+}
+
+.logo {
+  width: 300px;
+  margin-top: 20px
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  color: white;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+
+/* フッターのCSS */
+footer img {
+  width: 400px;
+}
+
+
+footer p {
+  color: #b3aeb5;
+  font-size: 18px;
+}
+
+
+footer {
+  padding-top: 30px;
+  background: -webkit-linear-gradient(to right, #196840, #5a89e0);
+  background: linear-gradient(to right,  #196840, #5a89e0);
+ 
+}
+

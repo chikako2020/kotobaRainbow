@@ -1,0 +1,40 @@
+body{
+    background: #45F9D3;
+}
+
+#btn{
+    width: 600px;
+    height: 300px;
+    background: #444CFF;
+    border-radius: 50%;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 300px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 40px;
+    cursor: pointer;
+    box-shadow: 0 20px 0 #090d69;
+    user-select: none;
+}
+
+#btn:active {
+    box-shadow: 0 10px 0 #090d69;
+    margin-top: 45px;
+}
+
+h1 {
+    position: relative;
+    padding: 0.2em 0.5em;
+    background: -webkit-linear-gradient(to right, #FF7251, #fdc98d);
+    background: linear-gradient(to right, #FF7251, #fdc98d);
+    color: white;
+  }
+
+  .home-btn {
+    padding: 16px 48px;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ffecd2  0%,  #444CFF 51%, #ffecd2  100%);
+    margin-left: 80%;
+}
