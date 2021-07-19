@@ -78,6 +78,10 @@ header {
   height: 80px;
   background: -webkit-linear-gradient(to right, rgb(255, 124, 111), #ffc994);
   background: linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+  /* ヘッダーを固定、重なり順序を指定 */
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .logo {
