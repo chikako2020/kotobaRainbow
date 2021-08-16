@@ -29,6 +29,7 @@ h1 {
     background: -webkit-linear-gradient(to right, #FFCE33,  #00d6ff);
     background: linear-gradient(to right, #FFCE33, #00d6ff);
     color: white;
+    text-align: center;
 
 }
 
