@@ -30,6 +30,8 @@ h1 {
     background: -webkit-linear-gradient(to right, #FFC310,  #f5e3af);
     background: linear-gradient(to right, #FFC310, #f5e3af);
     color: white;
+    text-align: center;
+
   }
 
 .home-btn {
