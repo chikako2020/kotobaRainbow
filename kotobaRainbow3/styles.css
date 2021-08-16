@@ -29,6 +29,7 @@ h1 {
     background: -webkit-linear-gradient(to right, #03BD70, #8B4FB5);
     background: linear-gradient(to right, #03bd70, #8B4FB5);
     color: white;
+    text-align: center;
   }
 
 .home-btn {
@@ -37,4 +38,5 @@ h1 {
     border-radius: 10px;
     background-image: linear-gradient(to right, #ffecd2  0%,  #8B4FB5 51%, #ffecd2  100%);
     margin-left: 80%;
+
 }
